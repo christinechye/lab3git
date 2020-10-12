@@ -2,3 +2,4 @@ Name: Christine Chye
 Major: Computer Science and Engineering 
 Year: Class of 2021
 Hobbies: hiking, running, paddle boarding, walking, eating
+Fall 2020 Courses: COEN 174 (L+L), TESP 124, COEN 194 
